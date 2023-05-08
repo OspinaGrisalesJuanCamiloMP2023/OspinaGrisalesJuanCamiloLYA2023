@@ -89,9 +89,4 @@ public class MatrizEnterosCuadrada {
 		  
 		 }
 
-	public static void ordenaSeleccion(int[] array) {
-		// TODO Auto-generated method stub
-		
-	}
-
  }
