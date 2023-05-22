@@ -1,4 +1,4 @@
-package org.lya.sesion01;
+package org.lyp.sesion02;
 
 public class Subsecuencia {
 	

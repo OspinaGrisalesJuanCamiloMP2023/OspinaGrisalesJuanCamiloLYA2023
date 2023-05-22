@@ -1,9 +1,10 @@
-package org.lya.sesion01;
+package org.lya.sesion02;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
+import org.lyp.sesion02.Subsecuencia;
 
 public class SubsecuenciaTestJUnit5 {
 	

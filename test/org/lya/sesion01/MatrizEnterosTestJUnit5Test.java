@@ -32,7 +32,7 @@ public class MatrizEnterosTestJUnit5Test {
 		int [] array = {124,65,96,85};
 		String salidaEsperadaArray =  "[65, 85, 96, 124]";
 		
-		MatrizEnterosCuadrada.ordenaSeleccion(array);
+		MatrizEnterosCuadrada.burbujaMejora(array);
 		String salidaArray = Arrays.toString(array);
 		assertEquals(salidaArray, salidaEsperadaArray);
 			
